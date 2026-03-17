@@ -1,4 +1,6 @@
 # Bank Loan Performance Analytics Dashboard
+<img width="858" height="488" alt="Screenshot 2026-03-16 162744" src="https://github.com/user-attachments/assets/5f1a3020-2f0c-428f-b796-d4eb8a5792e7" />
+<img width="857" height="492" alt="Screenshot 2026-03-16 162702" src="https://github.com/user-attachments/assets/ae013d7e-813f-4585-99eb-ad0d35337dd7" />
 
 ## Overview
 
@@ -16,7 +18,6 @@ This dashboard was developed to support:
 • Evaluation of loan portfolio quality (good vs bad loans)
 • Analysis of borrower characteristics and risk factors
 • Identification of funding trends across time and loan segments
-<img width="858" height="488" alt="Screenshot 2026-03-16 162744" src="https://github.com/user-attachments/assets/5f1a3020-2f0c-428f-b796-d4eb8a5792e7" />
 
 ## Tools & Technologies
 
@@ -60,6 +61,13 @@ Monthly funding analysis helps track lending growth and detect changes in fundin
 ### Loan Term Analysis
 
 Comparison between short-term (36 months) and long-term (60 months) loans to understand portfolio composition.
+
+## Key Insights
+
+• Debt consolidation loans represent the largest share of funded loans.
+• Borrowers with shorter employment history show higher default probability.
+• 60-month loans carry higher risk compared to 36-month loans.
+• Loan issuance increased significantly in Q3 indicating seasonal demand.
 
 ## Business Value
 
